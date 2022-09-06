@@ -4,7 +4,7 @@ export default function Header(){
     <>
         <div>
             <nav>
-                <a>Startseite</a>
+                <a>Home</a>
                 <a>Veggie</a>
                 <a>Dessert</a>
             </nav>
