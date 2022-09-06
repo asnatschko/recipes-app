@@ -8,7 +8,7 @@ export default function Veggie() {
             <p>alle vegetarischen Rezepte</p>
             <Image
             alt=""
-            src="/public/pizza.avif"
+            src="/pizza.avif"
             layout="responsive"
             width={2400}
             height={1599}
