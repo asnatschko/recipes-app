@@ -1,5 +1,5 @@
 
 export default function Footer() {
    
-    return <p>Impressum</p>
+    return <footer>Impressum</footer>
 };
