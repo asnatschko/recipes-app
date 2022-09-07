@@ -8,7 +8,7 @@ export default function Header(){
             <nav>
                 <Link href="/">Home</Link>
                 <Link href="/Veggie">Veggie</Link>
-                <Link href="/Dessert">Dessert</Link>
+                <Link href="/Desert">Dessert</Link>
             </nav>
         </div>
     </>
