@@ -1,12 +1,14 @@
+import Link from 'next/link';
+
 export default function Header(){
 
     return (
     <>
         <div>
             <nav>
-                <a>Home</a>
-                <a>Veggie</a>
-                <a>Dessert</a>
+                <Link href="/">Home</Link>
+                <Link href="/Veggie">Veggie</Link>
+                <Link href="/Dessert">Dessert</Link>
             </nav>
         </div>
     </>
